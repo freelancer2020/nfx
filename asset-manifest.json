@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//freelancer2020/github.io/nfx/static/css/main.ae2e05a5.chunk.css",
+    "main.js": "/http//freelancer2020/github.io/nfx/static/js/main.7c263224.chunk.js",
+    "main.js.map": "/http//freelancer2020/github.io/nfx/static/js/main.7c263224.chunk.js.map",
+    "runtime-main.js": "/http//freelancer2020/github.io/nfx/static/js/runtime-main.37597be1.js",
+    "runtime-main.js.map": "/http//freelancer2020/github.io/nfx/static/js/runtime-main.37597be1.js.map",
+    "static/js/2.91e672b0.chunk.js": "/http//freelancer2020/github.io/nfx/static/js/2.91e672b0.chunk.js",
+    "static/js/2.91e672b0.chunk.js.map": "/http//freelancer2020/github.io/nfx/static/js/2.91e672b0.chunk.js.map",
+    "index.html": "/http//freelancer2020/github.io/nfx/index.html",
+    "precache-manifest.402ed159f9e08ac7b1c41ba9b4a6956e.js": "/http//freelancer2020/github.io/nfx/precache-manifest.402ed159f9e08ac7b1c41ba9b4a6956e.js",
+    "service-worker.js": "/http//freelancer2020/github.io/nfx/service-worker.js",
+    "static/css/main.ae2e05a5.chunk.css.map": "/http//freelancer2020/github.io/nfx/static/css/main.ae2e05a5.chunk.css.map",
+    "static/js/2.91e672b0.chunk.js.LICENSE.txt": "/http//freelancer2020/github.io/nfx/static/js/2.91e672b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37597be1.js",
+    "static/js/2.91e672b0.chunk.js",
+    "static/css/main.ae2e05a5.chunk.css",
+    "static/js/main.7c263224.chunk.js"
+  ]
+}
